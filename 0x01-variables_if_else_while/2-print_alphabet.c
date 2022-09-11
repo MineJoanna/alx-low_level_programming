@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+
 /*here is the code thats prints the alphabets to lowercase*/
 int main(void)
 {
